@@ -5,7 +5,6 @@ This project is a minimalist boilerplate full-stack web app with a React fronten
 ## Prerequisites
 
 - Node.js and npm (Node Package Manager)
-- Git (for cloning the repository)
 
 ## Setup and Running the Application
 
