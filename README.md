@@ -1,4 +1,4 @@
-# Web-App Project
+# Web-App
 
 This project is a full-stack application with a React frontend in the `client` directory and a Node.js/Express backend in the `server` directory.
 
