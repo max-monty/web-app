@@ -1,6 +1,6 @@
 # Web-App Project
 
-This project is a full-stack application with a React frontend in the `client` directory and a Node.js/Express backend in the `server` directory.
+This project is a minimalist boilerplate full-stack web app with a React frontend in the `client` directory and a Node.js/Express backend in the `server` directory.
 
 ## Prerequisites
 
