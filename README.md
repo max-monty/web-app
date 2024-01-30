@@ -17,28 +17,14 @@ git clone https://github.com/max-monty/web-app.git
 cd web-app
 ```
 
-### Backend Setup
-
-Navigate to the server directory, install dependencies, and start the server:
+Start the project:
 
 ```bash
-cd server
 npm install
 npm start
 ```
 
 The server will start on http://localhost:3001
-
-### Frontend Setup
-
-Open a new terminal window. Navigate to the client directory, install dependencies, and start the React app:
-
-```bash
-cd client
-npm install
-npm start
-```
-
 The React application will run on http://localhost:3000
 
 ### Accessing the Application
